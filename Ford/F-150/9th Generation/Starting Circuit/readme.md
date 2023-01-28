@@ -1,4 +1,4 @@
-# Starter & Solenoid
+# Starter & Relay / Solenoid
 - https://www.google.com/search?q=1996+ford+f150+starter+solenoid+wiring+diagram
 - https://www.pinterest.com/pin/687924911828580860/
 
